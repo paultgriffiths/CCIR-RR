@@ -6,6 +6,6 @@
 
 * Figure out how to load data in netCDF format.  Download the HadCRUT5 dataset from [here](https://crudata.uea.ac.uk/cru/data/temperature/CRUTEM.5.0.1.0.anomalies.nc).
 
-![Here](HadCRUT5.png)
+![Here](hadCRUT5.png)
 
 is a plot I made of the data.
